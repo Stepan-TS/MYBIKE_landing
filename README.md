@@ -1,13 +1,9 @@
-# Miami landing page
+The Bike Landing Page is a static website developed using HTML, SCSS, and JavaScript. It boasts a sleek and contemporary design, featuring a prominent header section that showcases the bike's logo and a navigation menu. The page also includes a compelling call-to-action button and multiple content sections that highlight the bike's advantages and pricing details.
 
-In this task, you will learn how to implement a landing page. To do that:
+One of the key strengths of this website is its responsiveness, as it has been optimized to ensure seamless user experience across various screen sizes, ranging from desktop computers to mobile devices.
 
-- choose a landing page design from the list below;
-  - [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-  - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- watch the lesson videos and implement your page blocks similarly to the videos;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- when you finish the first block of your page deploy it and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_miami/) 
-- after each next block do the same (add, commit and push the changes, and deploy the updated demo;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
+To get a better sense of the website's layout and functionality, you can explore a live demo by visiting [MYBIKE landing](https://stepan-ts.github.io/layout_miami/).
+
+The technologies utilized in building this project include HTML, SCSS, BEM (Block Element Modifier) methodology, and JavaScript. Furthermore, the development approach follows a mobile-first design strategy, ensuring the website's adaptability and accessibility on handheld devices.
+
+If you are interested in contributing to this project, feel free to get involved and make your valuable contributions to further enhance its features and functionalities.
